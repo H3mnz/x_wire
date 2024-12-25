@@ -1,14 +1,14 @@
-<center><img width="128" src="images/logo.png"/></center>
+<img width="128" src="images/logo.png"/>
 
-<center><h1>XWire</h1></center>
+<h1>XWire</h1>
 
-<center><h4>A Simple Windows WireGuard VPN Client Developed with Flutter.</h4></center>
-
-</br>
-
-<center>WIP (Work in progress)</center>
-<center>For Develop, You Need to Run IDE as Administrator.</center>
+<h4>A Simple Windows WireGuard VPN Client Developed with Flutter.</h4>
 
 </br>
 
-<center><img src="screenshots/image.png"/></center>
+* WIP (Work in progress)
+* For Develop, You Need to Run IDE as Administrator.
+
+</br>
+
+<img src="screenshots/image.png"/>
